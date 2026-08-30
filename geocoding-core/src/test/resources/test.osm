@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (1251262 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+	<bounds minlat="49.1882698" minlon="16.6007750" maxlat="49.1992409" maxlon="16.6189393"/>
+	<node id="21289675" visible="true" version="8" changeset="180511620" timestamp="2026-03-27T16:32:59Z" user="Liqid1010" uid="2359743" lat="49.1973059" lon="16.6036918">
+		<tag k="railway" v="tram_level_crossing"/>
+	</node>
+	<node id="21312786" visible="true" version="14" changeset="187471949" timestamp="2026-08-15T05:47:00Z" user="mapperue" uid="4887311" lat="49.1904544" lon="16.6131745">
+		<tag k="local_ref" v="5"/>
+		<tag k="name" v="Brno hl.n."/>
+		<tag k="network" v="Integrovaný dopravní systém Jihomoravského kraje"/>
+		<tag k="network:short" v="IDS JMK"/>
+		<tag k="network:wikidata" v="Q12020731"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="railway" v="stop"/>
+		<tag k="railway:ref" v="332957"/>
+		<tag k="train" v="yes"/>
+	</node>
+	<node id="21470369" visible="true" version="8" changeset="185975163" timestamp="2026-07-18T19:33:41Z" user="Liqid1010" uid="2359743" lat="49.1984071" lon="16.6094190">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="crossing:island" v="no"/>
+		<tag k="crossing:markings" v="zebra"/>
+		<tag k="highway" v="crossing"/>
+		<tag k="source" v="bing"/>
+		<tag k="tactile_paving" v="yes"/>
+	</node>
+	<node id="21470377" visible="true" version="3" changeset="1008814" timestamp="2009-04-28T20:54:10Z" user="hanoj" uid="4788" lat="49.1980494" lon="16.6092497">
+		<tag k="created_by" v="JOSM"/>
+	</node>
+	<node id="21496199" visible="true" version="19" changeset="187471949" timestamp="2026-08-15T05:47:00Z" user="mapperue" uid="4887311" lat="49.1906045" lon="16.6130691">
+		<tag k="local_ref" v="3"/>
+		<tag k="name" v="Brno hl.n."/>
+		<tag k="network" v="Integrovaný dopravní systém Jihomoravského kraje"/>
+		<tag k="network:short" v="IDS JMK"/>
+		<tag k="network:wikidata" v="Q12020731"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="railway" v="stop"/>
+		<tag k="railway:ref" v="332957"/>
+		<tag k="train" v="yes"/>
+	</node>
+	<node id="60402527" visible="true" version="7" changeset="165245191" timestamp="2025-04-21T15:09:47Z" user="xpisar" uid="19474201" lat="49.1902905" lon="16.6109908"/>
+	<node id="83365417" visible="true" version="13" changeset="180412268" timestamp="2026-03-25T15:41:49Z" user="Beatrix T" uid="23968706" lat="49.1951704" lon="16.6096238">
+		<tag k="addr:city" v="Brno"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="60200"/>
+		<tag k="addr:street" v="Kobližná"/>
+		<tag k="amenity" v="library"/>
+		<tag k="check_date:opening_hours" v="2026-03-25"/>
+		<tag k="email" v="kjm@kjm.cz"/>
+		<tag k="name" v="Knihovna Jiřího Mahena"/>
+		<tag k="old_name" v="Schrattenbachův palác"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su off"/>
+		<tag k="phone" v="+420 542 532 163"/>
+		<tag k="source" v="uhul:ortofoto"/>
+		<tag k="website" v="https://www.kjm.cz/"/>
+		<tag k="wheelchair" v="yes"/>
+		<tag k="wikidata" v="Q12029621"/>
+	</node>
+    <node id="98989898" visible="true" version="13" changeset="180412268" timestamp="2026-03-25T15:41:49Z" user="Beatrix T" uid="23968706" lat="49.1951704" lon="16.6096238">
+        <tag k="check_date:opening_hours" v="2026-03-25"/>
+        <tag k="email" v="kjm@kjm.cz"/>
+        <tag k="old_name" v="Schrattenbachův palác"/>
+        <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su off"/>
+    </node>
+	<node id="83483337" visible="true" version="13" changeset="183453380" timestamp="2026-05-31T15:11:50Z" user="Beatrix T" uid="23968706" lat="49.1976369" lon="16.6081832">
+		<tag k="addr:city" v="Brno"/>
+		<tag k="addr:country" v="CZ"/>
+		<tag k="addr:housenumber" v="1a"/>
+		<tag k="addr:postcode" v="66226"/>
+		<tag k="addr:street" v="Moravské náměstí"/>
+		<tag k="fee" v="no"/>
+		<tag k="name" v="Místodržitelský palác"/>
+		<tag k="name:es" v="Palacio del Gobernador"/>
+		<tag k="old_name" v="Augustiniánský klášter"/>
+		<tag k="opening_hours" v="We,Fr-Su 10:00-18:00; Th 10:00-19:00"/>
+		<tag k="phone" v="+420 532 169333"/>
+		<tag k="source" v="cuzk:km"/>
+		<tag k="tourism" v="museum"/>
+		<tag k="wikidata" v="Q12039262"/>
+		<tag k="wikipedia" v="cs:Místodržitelský palác (Brno)"/>
+	</node>
+    <node id="99999999" visible="true" version="13" changeset="183453380" timestamp="2026-05-31T15:11:50Z" user="Beatrix T" uid="23968706" lat="49.1976369" lon="16.6081832">
+        <tag k="addr:city" v="Brno"/>
+        <tag k="addr:country" v="CZ"/>
+        <tag k="addr:housenumber" v="1a"/>
+        <tag k="addr:postcode" v="66226"/>
+        <tag k="addr:street" v="Moravské náměstí"/>
+        <tag k="fee" v="no"/>
+        <tag k="name" v="Místodržitelský palác"/>
+        <tag k="name:es" v="Palacio del Gobernador"/>
+        <tag k="old_name" v="Augustiniánský klášter"/>
+        <tag k="opening_hours" v="We,Fr-Su 10:00-18:00; Th 10:00-19:00"/>
+        <tag k="phone" v="+420 532 169333"/>
+        <tag k="source" v="cuzk:km"/>
+        <tag k="tourism" v="museum"/>
+        <tag k="wikidata" v="Q12039262"/>
+        <tag k="wikipedia" v="cs:Místodržitelský palác (Brno)"/>
+    </node>
+	<node id="292055487" visible="true" version="14" changeset="165951774" timestamp="2025-05-07T18:16:37Z" user="Pavel_Š" uid="21958359" lat="49.1950266" lon="16.6147778">
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Malinovského náměstí"/>
+		<tag k="public_transport" v="stop_position"/>
+		<tag k="railway" v="tram_stop"/>
+		<tag k="tram" v="yes"/>
+	</node>
+    <node id="123456789" visible="true" version="14" changeset="165951774" timestamp="2025-05-08T18:16:37Z" user="Pavel_Š" uid="21958359" lat="49.1950266" lon="16.6147778">
+        <tag k="bus" v="yes"/>
+        <tag k="name" v="Malinovského náměstí"/>
+    </node>
+	<node id="1587101120" visible="true" version="2" changeset="39904743" timestamp="2016-06-09T09:49:02Z" user="jirislaby" uid="476713" lat="49.1941226" lon="16.6166844"/>
+	<node id="1601566699" visible="true" version="39" changeset="177515319" timestamp="2026-01-21T10:45:29Z" user="GPMapper" uid="890496" lat="49.1922443" lon="16.6113382">
+		<tag k="capital" v="4"/>
+		<tag k="name" v="Brno"/>
+		<tag k="name:am" v="ብርኖ"/>
+		<tag k="name:ar" v="برنو"/>
+		<tag k="name:be" v="Брно"/>
+		<tag k="name:bg" v="Бърно"/>
+		<tag k="name:ce" v="Брно"/>
+		<tag k="name:cs" v="Brno"/>
+		<tag k="name:de" v="Brünn"/>
+		<tag k="name:el" v="Μπρνο"/>
+		<tag k="name:fa" v="برنو"/>
+		<tag k="name:he" v="ברנו"/>
+		<tag k="name:hi" v="ब्र्नो"/>
+		<tag k="name:hu" v="Brno"/>
+		<tag k="name:hy" v="Բռնո"/>
+		<tag k="name:ja" v="ブルノ"/>
+		<tag k="name:ka" v="ბრნო"/>
+		<tag k="name:kk" v="Брно"/>
+		<tag k="name:kn" v="ಬೃನೋ"/>
+		<tag k="name:ko" v="브르노"/>
+		<tag k="name:kv" v="Брно"/>
+		<tag k="name:ky" v="Брно"/>
+		<tag k="name:la" v="Bruna"/>
+		<tag k="name:lt" v="Brno"/>
+		<tag k="name:mk" v="Брно"/>
+		<tag k="name:mn" v="Брно"/>
+		<tag k="name:mr" v="ब्रनो"/>
+		<tag k="name:os" v="Брно"/>
+		<tag k="name:ps" v="برنو"/>
+		<tag k="name:ru" v="Брно"/>
+		<tag k="name:sk" v="Brno"/>
+		<tag k="name:sq" v="Bërno"/>
+		<tag k="name:sr" v="Брно"/>
+		<tag k="name:ta" v="பிர்னோ"/>
+		<tag k="name:tg" v="Брно"/>
+		<tag k="name:th" v="เบอร์โน"/>
+		<tag k="name:tt" v="Брно"/>
+		<tag k="name:uk" v="Брно"/>
+		<tag k="name:ur" v="برنو"/>
+		<tag k="name:yi" v="ברין"/>
+		<tag k="name:zh" v="布爾諾"/>
+		<tag k="old_name:hu" v="Berén"/>
+		<tag k="place" v="city"/>
+		<tag k="population" v="379466"/>
+		<tag k="ref:cobe" v="411582"/>
+		<tag k="source" v="csu:uir-zsj"/>
+		<tag k="wikidata" v="Q14960"/>
+		<tag k="wikipedia" v="cs:Brno"/>
+	</node>
+	<node id="3325029085" visible="true" version="15" changeset="187481512" timestamp="2026-08-15T10:37:22Z" user="mapperue" uid="4887311" lat="49.1911221" lon="16.6131116">
+		<tag k="addr:city" v="Brno"/>
+		<tag k="addr:housenumber" v="418/1"/>
+		<tag k="addr:street" v="Nádražní"/>
+		<tag k="alt_name" v="Brno main railway station;Brno main train station"/>
+		<tag k="ele" v="205"/>
+		<tag k="image" v="http://upload.wikimedia.org/wikipedia/commons/0/07/Brno_-_Hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD.jpg"/>
+		<tag k="name" v="Brno hlavní nádraží"/>
+		<tag k="name:de" v="Brünn Hauptbahnhof"/>
+		<tag k="name:pl" v="Brno Główne"/>
+		<tag k="name:ru" v="Брно Главни Надражи"/>
+		<tag k="network" v="Integrovaný dopravní systém Jihomoravského kraje"/>
+		<tag k="network:short" v="IDS JMK"/>
+		<tag k="network:wikidata" v="Q12020731"/>
+		<tag k="opening_hours" v="Mo-Fr 00:00-01:00,02:15-24:00, Sa,Su 00:00-01:00,02:15-23:59"/>
+		<tag k="operator" v="Správa železnic"/>
+		<tag k="operator:short" v="SŽ"/>
+		<tag k="operator:wikidata" v="Q1848025"/>
+		<tag k="public_transport" v="station"/>
+		<tag k="railway" v="station"/>
+		<tag k="railway:ref" v="332957"/>
+		<tag k="short_name" v="Brno hl.n."/>
+		<tag k="start_date" v="1838"/>
+		<tag k="train" v="yes"/>
+		<tag k="uic_ref" v="5433295"/>
+		<tag k="url" v="https://www.cd.cz/en/stanice/brno-hl-n/33295"/>
+		<tag k="website" v="https://www.czechrails.com/brno-train-station.html"/>
+		<tag k="wheelchair" v="yes"/>
+		<tag k="wikidata" v="Q921772"/>
+		<tag k="wikipedia" v="cs:Brno hlavní nádraží"/>
+	</node>
+	<way id="156174769" visible="true" version="16" changeset="187475507" timestamp="2026-08-15T08:04:37Z" user="mapperue" uid="4887311">
+		<nd ref="1684569493"/>
+		<nd ref="1684569581"/>
+		<nd ref="1684569590"/>
+		<nd ref="9344230424"/>
+		<nd ref="1684569587"/>
+		<nd ref="1684569578"/>
+		<nd ref="1684569489"/>
+		<nd ref="4233652721"/>
+		<nd ref="1684569493"/>
+		<tag k="area" v="yes"/>
+		<tag k="bench" v="no"/>
+		<tag k="bin" v="yes"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Malinovského náměstí"/>
+		<tag k="network" v="Integrovaný dopravní systém Jihomoravského kraje"/>
+		<tag k="network:short" v="IDS JMK"/>
+		<tag k="network:wikidata" v="Q12020731"/>
+		<tag k="network:wikipedia" v="cs:Integrovaný dopravní systém Jihomoravského kraje"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="railway" v="platform"/>
+		<tag k="shelter" v="no"/>
+		<tag k="source" v="survey;cuzk:km"/>
+		<tag k="tactile_paving" v="no"/>
+		<tag k="wheelchair" v="no"/>
+	</way>
+	<way id="330271580" visible="true" version="11" changeset="186216814" timestamp="2026-07-23T07:09:14Z" user="xmichelf" uid="11017878">
+		<nd ref="3372281914"/>
+		<nd ref="3372281909"/>
+		<nd ref="3372281905"/>
+		<nd ref="21470303"/>
+		<tag k="cycleway:both" v="no"/>
+		<tag k="goods" v="yes"/>
+		<tag k="highway" v="residential"/>
+		<tag k="lane_markings" v="no"/>
+		<tag k="lit" v="yes"/>
+		<tag k="maxspeed" v="30"/>
+		<tag k="maxspeed:type" v="CZ:zone"/>
+		<tag k="name" v="Malinovského náměstí"/>
+		<tag k="name:etymology:wikidata" v="Q204338"/>
+		<tag k="psv" v="yes"/>
+		<tag k="sidewalk:both" v="separate"/>
+		<tag k="surface" v="sett"/>
+		<tag k="vehicle" v="destination"/>
+	</way>
+	<relation id="2608306" visible="true" version="8" changeset="187476498" timestamp="2026-08-15T08:31:39Z" user="mapperue" uid="4887311">
+		<member type="node" ref="9343740064" role="stop"/>
+		<member type="node" ref="3372281823" role="stop"/>
+		<member type="node" ref="2041933183" role="platform"/>
+		<member type="node" ref="292055485" role="stop"/>
+		<member type="node" ref="3372281822" role="stop"/>
+		<member type="node" ref="2812258252" role="platform"/>
+		<member type="node" ref="3372281821" role="stop"/>
+		<member type="node" ref="2041933176" role="platform"/>
+		<member type="node" ref="292055487" role="stop"/>
+		<member type="way" ref="156174769" role="platform"/>
+		<tag k="bus" v="yes"/>
+		<tag k="name" v="Malinovského náměstí"/>
+		<tag k="network" v="Integrovaný dopravní systém Jihomoravského kraje"/>
+		<tag k="network:short" v="IDS JMK"/>
+		<tag k="network:wikidata" v="Q12020731"/>
+		<tag k="public_transport" v="stop_area"/>
+		<tag k="tram" v="yes"/>
+		<tag k="type" v="public_transport"/>
+		<tag k="wheelchair" v="no"/>
+		<tag k="zone" v="100"/>
+	</relation>
+</osm>
